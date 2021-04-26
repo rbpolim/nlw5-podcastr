@@ -22,7 +22,6 @@ Você poderá ver mais sobre o layout acessando:
 
 
 ## 💽 **Instalação**
-
 Para clonar este repositório é necessário você ter na sua máquina: Yarn, Node and Git.
 
 ```
@@ -35,7 +34,7 @@ $ yarn
 # Rodar aplicação web:
 $ yarn dev
 
-# Rodar backennd fake:
+# Rodar backend fake:
 $ yarn server
 ```
 
